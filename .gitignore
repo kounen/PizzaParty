@@ -1,0 +1,6 @@
+plazza
+*.o
+.vscode/
+Bootstrap/
+record.txt
+vgcore*
