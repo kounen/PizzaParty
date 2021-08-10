@@ -4,10 +4,10 @@
 
 Realize a simulation of a pizzeria, which is composed of the reception that accepts new commands, of several kitchens, themselves with several cooks, themselves cooking several pizzas.
 The following tools were used :
-* Processes (man fork, man exit, man wait...)
-* Inter-process communication (IPC)
-* STL threads
-* POSIX mutex
+* Processes (man fork, man exit, man wait...).
+* Inter-process communication (IPC).
+* STL threads.
+* POSIX mutex.
 
 
 <h3>Usage</h3>
