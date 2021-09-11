@@ -21,7 +21,7 @@ The following tools were used :
 <h3>Option</h3>
 "-h" to display the help page.<br>
 
-##Authors
+## Authors
 
 - [@kounen](https://www.github.com/kounen)
 - [@Mehdz](https://www.github.com/Mehdz)
